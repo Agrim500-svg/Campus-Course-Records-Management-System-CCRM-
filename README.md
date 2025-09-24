@@ -1,6 +1,6 @@
-# Campus Course & Records Manager (CCRM)
+# Campus Course & Records Management System(CCRM)
 
-The **Campus Course & Records Manager (CCRM)** is a comprehensive, console-based Java SE application that streamlines the management of students, courses, enrollments, grades, and academic records for educational institutes.
+The **Campus Course & Records Management System (CCRM)** is a comprehensive, console-based Java SE application that streamlines the management of students, courses, enrollments, grades, and academic records for educational institutes.
 
 ---
 
